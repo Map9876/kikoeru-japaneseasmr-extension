@@ -53,33 +53,33 @@
 
 管理界面显示已下载的作品列表，支持下载、分割、翻译等操作。
 
-### 作品详情及章节列表（手机版）
+### 作品列表（手机版）
 
-![作品详情及章节列表](screenshots/02_5000_detail.png)
-
-展开详情后显示作品的章节列表，章节标题已打码处理。
-
-### 作品列表
-
-![kikoeru 作品列表](screenshots/03_7890_works.png)
+![kikoeru 作品列表](screenshots/02_7890_works.png)
 
 kikoeru 播放器中的作品列表，显示 AI 翻译的中文标题。
 
-### 作品详情
+### 侧边栏菜单（手机版）
+
+![侧边栏菜单](screenshots/03_7890_menu.png)
+
+点击菜单展开侧边栏，提供数据源切换等功能。
+
+### 作品详情（手机版）
 
 ![作品详情页](screenshots/04_7890_detail.png)
 
 作品详情页展示章节列表、字幕信息和播放控制。
 
-### 侧边栏面板
+### Japanese 面板（手机版）
 
-![侧边栏面板](screenshots/05_7890_sidebar.png)
+![Japanese 面板](screenshots/05_7890_sidebar.png)
 
 JapaneseASMR 侧边栏面板，提供云端字幕管理、翻译状态查看等功能。
 
-### 桌面版侧边栏
+### 桌面版 Japanese 面板
 
-![桌面版侧边栏](screenshots/06_7890_sidebar_desktop.png)
+![桌面版 Japanese 面板](screenshots/06_7890_sidebar_desktop.png)
 
 桌面版视图下的侧边栏面板展开效果。
 
